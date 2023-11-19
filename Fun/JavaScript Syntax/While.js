@@ -5,8 +5,7 @@ function numberOfDigits(number){
         last = number % 10;
         number = (number - last) / 10;
         count++;
-        console.log(count);
-    }
+        }
     return count;
 }
-console.log(numberOfDigits(602));
+console.log(numberOfDigits(305255));
