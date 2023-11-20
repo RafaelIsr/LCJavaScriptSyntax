@@ -6,4 +6,4 @@ function findStringOrBoolean (arr) {
     return 'No string or boolean found';
 }
 
-console.log(findStringOrBoolean([1, false, 2, 3, 4, 5, 6, 7, 8, 9, 10]))
+console.log(findStringOrBoolean([1, false, 2, '4', 5, 6, 7, 8, '9', 10]))
