@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17c50c84-1965-477d-b2ce-b7b5f559e7c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/My project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fun/JavaScript Syntax/While.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fun/JavaScript Syntax/Заполнить массив целыми числами кратными 3 и возведенными в степень m.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fun/JavaScript Syntax/Найти строку или булево значение в массиве.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fun/Math.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fun/array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fun/string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RunNode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +29,7 @@
   }
 }</component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -120,6 +109,8 @@
       <workItem from="1700151568435" duration="412000" />
       <workItem from="1700153679336" duration="65000" />
       <workItem from="1700309391552" duration="13000" />
+      <workItem from="1700493253935" duration="2201000" />
+      <workItem from="1701099967704" duration="271000" />
     </task>
     <servers />
   </component>
