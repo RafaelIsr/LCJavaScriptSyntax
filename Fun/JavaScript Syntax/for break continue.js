@@ -85,3 +85,43 @@ function divideOn10 (arr){
 console.log(divideOn10([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11])) // [1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 1.1]
 
 
+// От большего к меньшему четные числа
+function decreaseEven (num1, num2){
+    let arr = [];
+    for (i=num1; i>=num2; i--){
+        if (i % 2 !== 0) {continue
+        }arr.push(i)
+    }
+    return arr
+}
+
+console.log(decreaseEven(10, 2)) //[10, 8, 6, 4, 2]
+
+function arrayOdd(num1, num2) {
+    let arr = [];
+
+    if (num1 > num2) {
+        for (let i = num1; i >= num2; i--) {
+            if (i % 2 !== 0) {
+                arr.push(i);
+            }
+        }
+    } else {
+        for (let i = num2; i >= num1; i--) {
+            if (i % 2 !== 0) {
+                arr.push(i);
+            }
+        }
+    }
+
+    return arr;
+}
+
+// Сумма дробей от 1 до 1/n
+function fractionSum (n) {
+    let a = 0;
+    for (i=1; i<=n; i+= 1){
+        a = a + 1 / i
+    }  return Number(a.toFixed(2))
+}
+console.log(fractionSum(3)) //  1.83
