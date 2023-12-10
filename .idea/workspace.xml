@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17c50c84-1965-477d-b2ce-b7b5f559e7c2" name="Changes" comment="for break continue" />
+    <list default="true" id="17c50c84-1965-477d-b2ce-b7b5f559e7c2" name="Changes" comment="While changed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -73,7 +78,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Js-Laptop&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Rafael/WebstormProjects/My project&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -88,6 +93,17 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Rafael\WebstormProjects\My project\Fun\JavaScript Syntax" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Practic.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Fun/JavaScript Syntax/Practic.js" working-dir="$PROJECT_DIR$/Fun/JavaScript Syntax">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Practic.js" />
+        <item itemvalue="Node.js.Practic.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -128,7 +144,39 @@
       <option name="project" value="LOCAL" />
       <updated>1701782225895</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="for break continue">
+      <option name="closed" value="true" />
+      <created>1702201978094</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702201978094</updated>
+    </task>
+    <task id="LOCAL-00004" summary="for break continue">
+      <option name="closed" value="true" />
+      <created>1702202043258</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702202043258</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Practic.js">
+      <option name="closed" value="true" />
+      <created>1702202158245</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702202158245</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Practic.js">
+      <option name="closed" value="true" />
+      <created>1702202231848</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702202231848</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +184,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="for break continue" />
-    <option name="LAST_COMMIT_MESSAGE" value="for break continue" />
+    <MESSAGE value="While changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="While changed" />
   </component>
 </project>

@@ -9,7 +9,6 @@ function stopAtTwenty(arr, n1, n2) {
 
 console.log(stopAtTwenty([], 1, 30))
 
-
 // Сумма нечетных чисел массива. Инструкция continue
 function oddSum(arr) {
     let sum = 0
@@ -20,7 +19,6 @@ function oddSum(arr) {
 }
 
 console.log(oddSum([1, 2, 3, 4, 5])) // 9
-
 
 // Среднее арифметическое четных чисел массива. Метод continue
 function evenAvr (arr) {
@@ -38,7 +36,6 @@ function evenAvr (arr) {
 
 console.log(evenAvr([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])); // 6
 
-
 // Очистить массив от boolean
 function cleanFromBoolean (arr) {
     let arrNew = [];
@@ -50,7 +47,6 @@ function cleanFromBoolean (arr) {
 }
 
 console.log(cleanFromBoolean(["a", "b", true, "c", "d"])) // ["a", "b", "c", "d"]
-
 
 // Удвоить элементы массива, кроме единицы
 function twiceExceptOne(arr) {
